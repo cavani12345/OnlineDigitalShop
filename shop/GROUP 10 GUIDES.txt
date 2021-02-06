@@ -1,0 +1,11 @@
+TO LOG IN ADMIN PANEL  USE  
+LOCALHOST/shop/admin/login.php
+USERNAME: aristide
+password: 122713
+
+
+ for default customer:
+
+username: group10@gmail.com
+password: 12345
+ database :db_shop
